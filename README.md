@@ -23,6 +23,10 @@ after successful import, do `\dt` to check all the data tables
 ![successful data import](image.png)
 ### For mysql
 ```
+instructions will be updated
+```
+Start with
+```
 npm run dev
 ```
 ### Access at
